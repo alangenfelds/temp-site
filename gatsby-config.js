@@ -19,6 +19,7 @@ module.exports = {
     "gatsby-plugin-postcss",
     "gatsby-plugin-mdx",
     "gatsby-plugin-ffmpeg",
+    "gatsby-plugin-gatsby-cloud",
     {
       resolve: `gatsby-remark-videos`,
       options: {
